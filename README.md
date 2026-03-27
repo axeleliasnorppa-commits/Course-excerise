@@ -1,4 +1,3 @@
-# Course-excerise
 Smart Study Planner
 
 Building AI course project
