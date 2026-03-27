@@ -1,2 +1,33 @@
 # Course-excerise
-Smart Study Planner  Building AI course project  Summary  An AI tool that helps students plan study time efficiently by predicting performance based on habits and suggesting improvements.  Background  Many students struggle with:  poor time management inefficient study methods lack of feedback  This leads to stress and lower performance. I want to help students study smarter, not harder.  How is it used?  Students input their study hours, subjects, and goals. The AI suggests a personalized study plan and predicts outcomes.  Data sources and AI methods Data: study hours, grades, habits (self-reported or school data) Methods: logistic regression, simple recommendation system Challenges Data may be inaccurate Different students learn differently Privacy concerns What next? Build a mobile app Improve predictions with more data Add real-time tracking Acknowledgments Inspired by student productivity tools Built as part of the Building AI course
+Smart Study Planner
+
+Building AI course project
+
+Summary
+
+An AI tool that helps students plan study time efficiently by analyzing study habits and predicting performance. It provides personalized recommendations to improve learning outcomes and reduce stress.
+
+Background
+
+Many students struggle with:
+
+poor time management
+inefficient study methods
+lack of feedback
+How is it used?
+
+Students enter study data (hours, subjects).
+The system suggests a study plan and predicts results.
+
+Data sources and AI methods
+Data: study habits, hours, grades
+Methods: logistic regression, basic recommendations
+Challenges
+Data accuracy
+Different learning styles
+Privacy issues
+What next?
+Turn into an app
+Improve with more data
+Acknowledgments
+Inspired by student productivity tools
